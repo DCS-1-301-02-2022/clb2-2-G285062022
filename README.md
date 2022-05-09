@@ -1,6 +1,6 @@
 # 情報工学科の紹介
 <!-- Markdown記法を使って学科の紹介ページを作る -->
-#情報工学科
+# 情報工学科
 ![TakushokuUniversity](hachioji.jpg "八王子国際キャンパス")
 ![d](https://feng.takushoku-u.ac.jp/albums/abm00004330.jpg "情報工学科")
    
